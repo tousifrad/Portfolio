@@ -33,4 +33,4 @@ Extraction was done by Barry Becker from the 1994 Census database. Prediction ta
 -Analysis the adult salary dataset to find it out the data insgihts.
 -Data modeling using ML algorithm
 
-![alt text](https://github.com/tousifrad/Portfolio/blob/main/images/Adult%20Salary%20Dataset.PNG)
+![](https://github.com/tousifrad/Portfolio/blob/main/images/Adult%20Salary%20Dataset.PNG)
