@@ -11,7 +11,7 @@ Sprocket Central Pty Ltd data set contains transaction history, customer address
 -Visualised the data using Tableau
  
  
-![](https://github.com/tousifrad/Portfolio/blob/main/images/Sprocket%20Central%20Pty%20Ltd.png)
+![](/images/Sprocket%20Central%20Pty%20Ltd.png)
 
 
 
@@ -23,7 +23,7 @@ Sprocket Central Pty Ltd data set contains transaction history, customer address
 
  
 
-![](https://github.com/tousifrad/Portfolio/blob/main/images/Banking%20Market%20Data%20Analysis.PNG)
+![](/images/Banking%20Market%20Data%20Analysis.PNG)
 
 
 
@@ -33,4 +33,4 @@ Extraction was done by Barry Becker from the 1994 Census database. Prediction ta
 -Analysis the adult salary dataset to find it out the data insgihts.
 -Data modeling using ML algorithm
 
-![](https://github.com/tousifrad/Portfolio/blob/main/images/Adult%20Salary%20Dataset.PNG)
+![](/images/Adult%20Salary%20Dataset.PNG)
